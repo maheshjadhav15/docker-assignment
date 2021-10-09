@@ -41,3 +41,7 @@
 
 21. Now create a file and open it in edit mode with your domain name.conf for example=> site.com.conf to add server block containing arguments with their values.
 
+22. Finally we can use Let's Encrypt which is a non-profit certificate authority and provides certificates for localhost.
+ 
+23. Using Let's Encrypt we will set up HTTPS on our local web server.
+
